@@ -1,6 +1,6 @@
 # algorithms
 Algorithms and data structures.
 
-- tutorial - algorithms, structures, functions in C
+- tutorial - algorithms, structures, functions
 - lab - bigger exercise programs
-- skorowidz - algorithmic project
+- skorowidz - an algorithmic project
