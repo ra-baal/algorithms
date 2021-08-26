@@ -1,6 +1,5 @@
 /*!
  * AlgoSD Laboratorium
- * Rafał Balcerowski
  */
 
 #include <stdio.h>
