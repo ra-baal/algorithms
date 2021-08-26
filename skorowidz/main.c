@@ -1,6 +1,5 @@
 /** projekt: Skorowidz
- * autor: Rafał Balcerowski
- * Dla zagadnień wczytanych z pliku tworzy skorowidz dla tekstu (inny plik) i zapisuje go do podanego pliku. */
+ * Dla zagadnień wczytanych z pliku txt tworzy skorowidz dla tekstu (inny plik) i zapisuje go do podanego pliku. */
 
 #include <stdio.h>
 
