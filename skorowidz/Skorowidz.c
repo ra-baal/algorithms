@@ -10,7 +10,7 @@
 void WczytajZagadnienia(Skorowidz* skorowidz, const char nazwaPliku[]) {
 
     FILE* plik = fopen(nazwaPliku, "r");
-    char bufor[BUFOR_ZAGADNIENIE] = {0}; // todo dobrze zrobione inicjalizacja zerami?
+    char bufor[BUFOR_ZAGADNIENIE] = {0};
 
     if ( *skorowidz )
         ExitPrint(LISTA_NIEPUSTA, "Lista skorowidza nie jest pusta");
